@@ -4,11 +4,11 @@ The repository contains the code for the `DisentangledSSL` method presented in t
 
 An example in vision-language domain:
 
-![img](mainfig1.png)
+![img](imgs/mainfig1.png)
 
 An example in the biological domain:
 
-![img](mainfig1_bio.png)
+![img](imgs/mainfig1_bio.png)
 
 
 ## Set up the environment
@@ -27,7 +27,7 @@ bash scripts/run_step1.sh
 bash scripts/run_step2.sh
 ```
 
-![img](image.png)
+![img](imgs/image.png)
 
 ## Citation
 If you find this work useful in your research, please cite:
