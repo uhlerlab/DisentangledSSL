@@ -1,6 +1,6 @@
 # An Information Criterion for Controlled Disentanglement of Multimodal Data
 
-The repository contains the code for the `DisentangledSSL` method presented in the paper: *[An Information Criterion for Controlled Disentanglement of Multimodal Data](https://arxiv.org/abs/2410.23996) (ICLR 2025)*. `DisentangledSSL` is a novel self-supervised approach for learning disentangled representations, separating information shared across different modalities and modality-specific information.
+The repository contains the code for the `DisentangledSSL` method presented in the paper: *[An Information Criterion for Controlled Disentanglement of Multimodal Data](https://arxiv.org/abs/2410.23996) (**ICLR 2025**)*. `DisentangledSSL` is a novel self-supervised approach for learning disentangled representations, separating information shared across different modalities and modality-specific information.
 
 An example in vision-language domain:
 
